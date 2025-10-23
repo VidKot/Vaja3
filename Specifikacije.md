@@ -1,5 +1,5 @@
 # Šolska košarka
-[![Alt text](https://github.com/user-attachments/assets/c4945c01-5690-4a16-b4f5-08be7b25ccfd)
+![Alt text](https://github.com/user-attachments/assets/c4945c01-5690-4a16-b4f5-08be7b25ccfd)
 
 ## Ekipa projekta
 
