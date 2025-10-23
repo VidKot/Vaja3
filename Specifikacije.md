@@ -17,7 +17,7 @@
 ```html
 <h1>Šolska košarka</h1>
 <p>Je spletna stran za vajo 3 na faksu.</p>
-
+```
 
 ## Funkcionalnosti 🏀
 
