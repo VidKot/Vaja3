@@ -1,13 +1,13 @@
-## Funkcionalnosti 🌟
+## Funkcionalnosti 🏀
 
-1. **Registracija in prijava uporabnika**
-   _Uporabnikom omogoča ustvarjanje računa in varno prijavo za dostop do personaliziranih funkcij spletne strani._
+1. **Razpored tekem in rezultati**
+   _Prikaz prihajajočih in že odigranih tekem s točnimi datumi, urami, lokacijami in rezultati, vključno z zmagami/porazi._
 
-2. **Iskanje izdelkov s filtri** 🔎
-   _Napredna funkcija iskanja, ki omogoča hitro lociranje izdelkov z možnostjo filtriranja po ceni, kategoriji, in oceni._
+2. **Profili igralcev in statistika** 📊
+   _Podroben pregled posameznih igralcev, vključno z njihovimi slikami, pozicijami in osnovnimi statističnimi podatki (npr. povprečje točk, skokov)._
 
-3. **Nakupovalni voziček in blagajna** 🛒
-   _Sistem za shranjevanje izbranih izdelkov in varen postopek dokončanja nakupa z različnimi možnostmi plačila._
+3. **Galerija slik in videoposnetkov** 📸
+   _Možnost nalaganja in ogleda fotografij ter videoposnetkov z treningov, tekem in dogodkov šolske košarke._
 
-4. **Oddajanje ocen in komentarjev** 👍
-   _Uporabnikom omogoča deljenje mnenj in izkušenj z izdelki, kar povečuje transparentnost in zaupanje skupnosti._
+4. **Forum za komunikacijo** 🗣️
+   _Platforma za starše, igralce in trenerje za razpravo, postavljanje vprašanj in obveščanje o dogodkih v zvezi s klubom/ligo. Vesela skupnost!_
